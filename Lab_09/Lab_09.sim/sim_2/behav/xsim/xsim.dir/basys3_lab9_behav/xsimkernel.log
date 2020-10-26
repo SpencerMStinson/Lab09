@@ -1,4 +1,7 @@
-Running: xsim.dir/basys3_lab9_behav/xsimk.exe -simmode gui -wdb basys3_lab9_behav.wdb -simrunnum 0 -socket 55483
+Running: xsim.dir/basys3_lab9_behav/xsimk.exe -simmode gui -wdb basys3_lab9_behav.wdb -simrunnum 0 -socket 63656
 Design successfully loaded
-Design Loading Memory Usage: 5720 KB (Peak: 5720 KB)
-Design Loading CPU Usage: 0 ms
+Design Loading Memory Usage: 5884 KB (Peak: 5884 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 6584 KB (Peak: 6584 KB)
+Simulation CPU Usage: 30 ms
